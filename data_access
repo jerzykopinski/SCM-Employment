@@ -1,4 +1,4 @@
 Dataset from IPUMS CPS is too large to include in the repository. Please access data directly from https://cps.ipums.org/cps/index.shtml
 
-1) Your dataset need to include: year serial month hwtfinl cpsid gqtype metfips cpsidp age sex race marst occ uhrsworkt educ 
-2) It is advised to use monthly data for this STATA code
+1) Use *SEARCH* to find varibales. Your dataset need to include: year serial month hwtfinl cpsid gqtype metfips cpsidp age sex race marst occ uhrsworkt educ 
+2) It is advised to use monthly data for this STATA code. Use SELECT SAMPLE to choose the time series you are interested for analysis.

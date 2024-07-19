@@ -11,7 +11,7 @@ _ssc install synth_runner_
 
 **Usage**
 1) Clone this repository.
-2) Load the dataset accesed from IPUMS CPS. Obliagory variables(CPS NAMES): year serial month hwtfinl cpsid gqtype metfips cpsidp age sex race marst occ uhrsworkt educ 
+2) Load the dataset accesed from IPUMS CPS. Refer to access_data file. Obliagory variables(CPS NAMES): year serial month hwtfinl cpsid gqtype metfips cpsidp age sex race marst occ uhrsworkt educ 
 3) Run the STATA code using the provided scripts. Make sure to provide proper folder directories in the begginng at the beggining of the code file.
 
 **License**
